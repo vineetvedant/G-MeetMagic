@@ -8,8 +8,10 @@
          
          
          thnak you !!!!!!!
-         
+     
 -->
+
+![Emotion Detection](<https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/048-GDU-MET-Blog-Meet-Animation-JH_1.gif>)
 You’ve imported necessary modules like time, pyautogui, schedule, and webbrowser.
 You’re prompting the user to input their class link and the desired meeting time.
 The join() function opens the Google Meet link in a new tab, waits for 15 seconds (presumably to allow the meeting to load), and then performs some actions using pyautogui:
